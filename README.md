@@ -6,5 +6,6 @@ This repository will have survey of some popular methods, experiments (notebooks
 * Illustrations : simplification/deep dive of a relevant top tier conference publication
 * Reference links
 
-![KGR_Multihop_Methods](https://github.com/SankarshU/Knowledge-Graph-Reasoning/assets/44226862/179f1305-f65d-4058-adc2-3887bfb6907a)
+![KGR_Multihop_Methods](https://github.com/SankarshU/Knowledge-Graph-Reasoning/assets/44226862/4ab06407-f411-482f-a61f-7e3a335999be)
+
 
