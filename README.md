@@ -1,8 +1,6 @@
 # Knowledge-Graph-Reasoning
 This repository will have survey of some popular methods, experiments (notebooks) and resources
 
-Welcome to the Knowledge-Graph-Reasoning wiki!
-
 Codes/scripts : Experiments and demonstrations
 Materials: Repository will have materials that cover basic understanding
 Illustrations : simplification/deep dive of a relevant top tier conference publication
