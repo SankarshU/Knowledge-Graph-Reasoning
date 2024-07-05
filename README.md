@@ -8,4 +8,6 @@ This repository will have survey of some popular methods, experiments (notebooks
 
 ![KGR_Multihop_Methods](https://github.com/SankarshU/Knowledge-Graph-Reasoning/assets/44226862/4ab06407-f411-482f-a61f-7e3a335999be)
 
+More on algorithm, datasets and surveys here -> https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning.git
+
 
