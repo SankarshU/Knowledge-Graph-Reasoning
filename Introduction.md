@@ -2,7 +2,8 @@
 #### Knowledge graph reasoning (KGR) is answering multichip queries accounting for missing facts, heterogeneity & massive KGs
 #### KGR  enable wide range of AI applications, such as question answering (forecast future facts/explanations),recommendation systems (deduce new facts/missing links) and dialogue systems
 #### Knowledge graph reasoning of two kinds static knowledge graph and temporal knowledge graph 
-#### Static KG :(𝑒_𝑡,𝑒_1𝑞,𝑟_(𝑞  ) )  and Temporal KG:(𝑒_𝑡,𝑒_1𝑞,𝑟_(𝑞  ),𝑡_(𝑠  ) ) 
+#### Static KG :(𝑒_𝑡,𝑒_1𝑞,𝑟_(𝑞  ) )  and Temporal KG:(𝑒_𝑡,𝑒_1𝑞,𝑟_(𝑞  ),𝑡_(𝑠  ) )
+#### A simple task is to answer question from below graph just based on tripples from the KG
 
 
 
