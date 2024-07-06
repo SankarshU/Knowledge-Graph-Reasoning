@@ -1,7 +1,7 @@
 # Knowledge-Graph-Reasoning
 This repository will have survey of some popular methods, experiments (notebooks) and resources
 
-* Codes/scripts : Experiments and demonstrations
+* [Codes](https://github.com/SankarshU/Knowledge-Graph-Reasoning/tree/b7825fcc9293e776a25b47a083cd95f499811db6/Experiments_with_CURL)/scripts : Experiments and demonstrations
 * [Materials](https://github.com/SankarshU/Knowledge-Graph-Reasoning/blob/b0db02fdf91b09e2d0f6ba089e4300f6ac063eaf/Material.md): Repository will have materials that cover basic understanding
 * Illustrations : simplification/deep dive of a relevant top tier conference publication
 * Reference links
