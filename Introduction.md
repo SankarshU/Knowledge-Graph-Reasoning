@@ -5,6 +5,9 @@
 ##### Knowledge graph reasoning of two kinds static knowledge graph and temporal knowledge graph 
   ##### Static KG :(𝑒_𝑡,𝑒_1𝑞,𝑟_(𝑞  ) )  and Temporal KG:(𝑒_𝑡,𝑒_1𝑞,𝑟_(𝑞  ),𝑡_(𝑠  ) )
 
+  ![image](https://github.com/SankarshU/Knowledge-Graph-Reasoning/assets/44226862/6c30ea1b-c9bc-44fc-8bde-dce8e9847273)
+
+
 
 ##### The reasoning task is to  provide and answer for below question from below graph  just based on tripples from the KG
 
