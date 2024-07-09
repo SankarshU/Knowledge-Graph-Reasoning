@@ -27,3 +27,9 @@
 
 #### Fig3:A particular scenario to explore with CURL[providing additional context for ticket(T) entity during the traversal]
 ![image](https://github.com/SankarshU/Knowledge-Graph-Reasoning/assets/44226862/5b90e437-df67-485f-97f2-46c61d02a3b3)
+
+#### Fig4:CURL Code changes to enable the context as explained above
+![image](https://github.com/SankarshU/Knowledge-Graph-Reasoning/assets/44226862/1b467962-f8d1-46cb-b4ac-7cb47ce67877)
+
+#### Fig5:For a Tciket (T), different traversals/path rollouts in Knowledge graph show how context enbaled to move across similar contexts 
+![image](https://github.com/SankarshU/Knowledge-Graph-Reasoning/assets/44226862/dbb8919b-01e0-4f20-8b1c-218afc3f8ef7)
